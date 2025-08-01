@@ -1,0 +1,6202 @@
+[
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 8 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 2. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 3. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 4. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 5. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 6. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 7. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 8. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 9. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer 10. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 9 hand against a dealer a. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 2. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 3. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 4. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 5. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 6. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 7. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 8. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 9. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer 10. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 10 hand against a dealer a. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 2. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 3. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 4. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 5. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 6. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 7. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 8. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 9. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer 10. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a hard 11 hand against a dealer a. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a hard 12 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "j",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "q",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "k",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a hard 12 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 13 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 4 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "d"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "d"
+      },
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 13 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 14 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 15 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a soft 16 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 2. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 3. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 4. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 5. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 6. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 7. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 8. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 9. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer 10. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a soft 17 hand against a dealer a. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 18 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 19 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a soft 20 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "s"
+      },
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "a",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "h"
+      },
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "d"
+      },
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "a",
+        "suit": "c"
+      },
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 22 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "s"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "h"
+      },
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "2",
+        "suit": "d"
+      },
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 4 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "s"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "c"
+      },
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "c"
+      },
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "h"
+      },
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "s"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "d"
+      },
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "3",
+        "suit": "h"
+      },
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 6 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 2. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 3. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "c"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 4. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 5. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "h"
+      },
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 6. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 7. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "h"
+      },
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 8. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "d"
+      },
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 9. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "s"
+      },
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer 10. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "4",
+        "suit": "h"
+      },
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Hit",
+    "explanation": "This is a pair 8 hand against a dealer a. Hitting is recommended when your hand is weak and you're unlikely to bust, especially against strong dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "d"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 2. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "h"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 3. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 4. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 5. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "h"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 6. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "s"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 7. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "h"
+      },
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 8. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 9. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer 10. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "5",
+        "suit": "c"
+      },
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Double",
+    "explanation": "This is a pair 10 hand against a dealer a. Doubling down is optimal when you're likely to win with one more card and the dealer has a weak upcard."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "c"
+      },
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "s"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "c"
+      },
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "d"
+      },
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "c"
+      },
+      {
+        "value": "6",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "6",
+        "suit": "h"
+      },
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 12 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "d"
+      },
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "s"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "c"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "d"
+      },
+      {
+        "value": "7",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "7",
+        "suit": "h"
+      },
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 14 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 2. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "d"
+      },
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 3. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 4. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "d"
+      },
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 5. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 6. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 7. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 8. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "s"
+      },
+      {
+        "value": "8",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 9. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer 10. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "8",
+        "suit": "c"
+      },
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Split",
+    "explanation": "This is a pair 16 hand against a dealer a. Splitting is advised when you're dealt a pair that performs better as two separate hands, especially against weaker dealer cards."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "9",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "c"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "h"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "h"
+      },
+      {
+        "value": "9",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "s"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "9",
+        "suit": "d"
+      },
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 18 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "2",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 2. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "3",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 3. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "d"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "4",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 4. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "5",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 5. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "c"
+      },
+      {
+        "value": "10",
+        "suit": "h"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "6",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 6. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "7",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 7. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "8",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 8. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "h"
+      },
+      {
+        "value": "10",
+        "suit": "s"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "9",
+        "suit": "d"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 9. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer 10. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  },
+  {
+    "player_hand": [
+      {
+        "value": "10",
+        "suit": "s"
+      },
+      {
+        "value": "10",
+        "suit": "c"
+      }
+    ],
+    "dealer_card": [
+      {
+        "value": "a",
+        "suit": "s"
+      }
+    ],
+    "correct_action": "Stand",
+    "explanation": "This is a pair 20 hand against a dealer a. Standing is best when your hand is strong enough that the risk of busting outweighs the benefit of drawing another card."
+  }
+]
