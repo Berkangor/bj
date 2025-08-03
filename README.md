@@ -21,4 +21,3 @@ This app is designed to teach and reinforce **basic blackjack strategy** through
 - [Expo](https://expo.dev/)
 - JSON-based question bank
 
-## 📂 Project Structure
