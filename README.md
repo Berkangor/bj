@@ -28,14 +28,16 @@ This app is designed to teach and reinforce **basic blackjack strategy** through
 
 3) Open your terminal and run the following commands:
 
-bash
-Kopyala
-Düzenle
-git clone https://github.com/berkangor/blackjack-quiz.git
-cd blackjack-quiz
+git clone https://github.com/Berkangor/bj.git
+cd bj
 npm install
 npx expo start
 
-Scan the QR code with Expo Go on your phone to launch the app.
+
+4) Scan the QR code with Expo Go on your phone to launch the app.
+
+✅ That’s it — the Blackjack Strategy Quiz will open on your device!
+
+
 
 
