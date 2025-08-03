@@ -21,3 +21,21 @@ This app is designed to teach and reinforce **basic blackjack strategy** through
 - [Expo](https://expo.dev/)
 - JSON-based question bank
 
+🚀 How to Use
+1) Install Node.js (version 18 or later): https://nodejs.org
+
+2) Download the Expo Go app on your phone
+
+3) Open your terminal and run the following commands:
+
+bash
+Kopyala
+Düzenle
+git clone https://github.com/berkangor/blackjack-quiz.git
+cd blackjack-quiz
+npm install
+npx expo start
+
+Scan the QR code with Expo Go on your phone to launch the app.
+
+
